@@ -369,7 +369,11 @@ ESP32C3 Dev Module
 
 Select the appropriate USB/serial settings for the particular ESP32-C3
 SuperMini board.
+## 🎥 Working Video
 
+A working demonstration of the prototype is available here:
+
+[**▶️ Watch the working video on YouTube**](https://youtube.com/shorts/cJuZJ1mvMUA?si=qyw3it6B-IV5D7mZ)
 📁 Suggested Repository Structure
 
 ```text
