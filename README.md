@@ -381,7 +381,8 @@ SuperMini board.
 A working demonstration of the prototype is available here:
 
 [**▶️ Watch the working video on YouTube**](https://youtube.com/shorts/cJuZJ1mvMUA?si=qyw3it6B-IV5D7mZ)
-📁 Suggested Repository Structure
+
+## 📁 Suggested Repository Structure
 
 ```text
 iv-drip-monitor/
