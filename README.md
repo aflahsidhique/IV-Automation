@@ -189,6 +189,13 @@ ESP32 / 3.3 V
 
 The IR LED and phototransistor should be positioned opposite each other
 so the falling drop interrupts the optical path.
+## 🔌 Circuit Diagram
+
+The complete Fritzing-style circuit diagram is available in the repository:
+
+![IV Drip Monitoring Circuit Diagram](https://raw.githubusercontent.com/aflahsidhique/IV-Automation/main/diagram.png)
+
+**[View the full-size circuit diagram on GitHub](https://github.com/aflahsidhique/IV-Automation/blob/main/diagram.png)**
 
 📟 OLED Interface
 
